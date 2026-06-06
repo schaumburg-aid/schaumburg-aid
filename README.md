@@ -8,3 +8,6 @@
 
 Lucas Turner - Maintainer of the Website.
 
+Dagva Erdentuks - Chief of User Safety.
+
+### Feel free to check out more.

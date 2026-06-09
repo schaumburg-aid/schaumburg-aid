@@ -10,6 +10,6 @@ Lucas Turner - Support Team Manager.
 
 Dagva Erdentuks - Chief of User Safety.
 
-Shlok Chatanya Agashe - Chief of Media Management
+Shlok Chaitanya Agashe - Chief of Media Management
 
 ### Feel free to check out more.

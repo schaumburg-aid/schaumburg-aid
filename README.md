@@ -6,8 +6,10 @@
 ### Credits:
 @adhyayanhazra - Lead Developer of the Website.
 
-Lucas Turner - Maintainer of the Website.
+Lucas Turner - Support Team Manager.
 
 Dagva Erdentuks - Chief of User Safety.
+
+Shlok Chatanya Agashe - Chief of Media Management
 
 ### Feel free to check out more.
